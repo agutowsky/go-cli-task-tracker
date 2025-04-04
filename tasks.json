@@ -1,0 +1,38 @@
+[
+    {
+        "taskId": 1,
+        "status": "pending",
+        "title": "learn Go",
+        "createdAt": "2025-04-03T12:00:00Z",
+        "updatedAt": "2025-04-03T12:00:00Z",
+        "completedAt": null,
+        "isDeleted": false
+    },
+    {
+        "taskId": 2,
+        "status": "active",
+        "title": "make this app",
+        "createdAt": "2025-04-03T12:00:00Z",
+        "updatedAt": "2025-04-03T12:00:00Z",
+        "completedAt": null,
+        "isDeleted": false
+    },
+    {
+        "taskId": 3,
+        "status": "complete",
+        "title": "be born",
+        "createdAt": "2025-04-03T12:00:00Z",
+        "updatedAt": "2025-04-03T12:00:00Z",
+        "completedAt": "2025-04-03T12:00:00Z",
+        "isDeleted": false
+    },
+    {
+        "taskId": 4,
+        "status": "active",
+        "title": "drink a coffee",
+        "createdAt": "2025-04-03T12:00:00Z",
+        "updatedAt": "2025-04-03T12:00:00Z",
+        "completedAt": null,
+        "isDeleted": false
+    }
+]
